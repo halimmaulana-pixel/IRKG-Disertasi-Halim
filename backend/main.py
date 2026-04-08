@@ -1,4 +1,5 @@
 # backend/main.py
+import os
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from routers import graph, pipeline, cri, ablation, compare, upload, domain, cpl_mapping
@@ -10,9 +11,14 @@ Base.metadata.create_all(bind=engine)
 
 app = FastAPI(title="IR-KG Web API", version="3.0")
 
+# CORS origins: set ALLOWED_ORIGINS env var (comma-separated) untuk production
+# Contoh: "https://irkg.vercel.app,https://irkg-git-main.vercel.app"
+_raw_origins = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173")
+allowed_origins = [o.strip() for o in _raw_origins.split(",") if o.strip()]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=allowed_origins,
     allow_methods=["*"],
     allow_headers=["*"],
 )
