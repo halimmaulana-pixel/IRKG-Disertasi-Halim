@@ -20,6 +20,9 @@ backend/**/__pycache__/
 venv/
 env/
 
+# Large generated outputs
+backend/data/outputs/irkg_evidence_paths.jsonl
+
 # Database
 backend/irkg.db
 *.db
