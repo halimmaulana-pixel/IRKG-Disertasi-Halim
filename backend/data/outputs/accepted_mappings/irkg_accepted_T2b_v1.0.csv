@@ -1,0 +1,83 @@
+source_id,source_text,target_id,target_label,target_type,s_sem,s_gr,s_con,s_final,forced_top1,task,config
+TI_PLO-11,Mampu mengambil keputusan berbasis data dan analisis ilmiah.,43-9021.00,Data Entry Keyers,ONET,0.02177,0.0,1.0,0.217416,True,T2b,v1.0
+TI_PLO-14,Mampu merancang dan menerapkan prosedur keamanan sistem TI secara komprehensif.,15-1212.00,Information Security Analysts,ONET,0.031854,0.0,1.0,0.225483,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-1243.00,Database Architects,ONET,0.046784,0.0,1.0,0.237427,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-1242.00,Database Administrators,ONET,0.046577,0.0,1.0,0.237262,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-2041.00,Statisticians,ONET,0.029057,0.0,1.0,0.223246,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-2021.00,Mathematicians,ONET,0.029057,0.0,1.0,0.223246,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-2041.01,Biostatisticians,ONET,0.029057,0.0,1.0,0.223246,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-2011.00,Actuaries,ONET,0.029057,0.0,1.0,0.223246,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-1299.09,Data Scientists,ONET,0.028263,0.0,1.0,0.22261,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-2099.01,Bioinformatics Technicians,ONET,0.027664,0.0,1.0,0.222131,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-1299.01,Blockchain Engineers,ONET,0.027466,0.0,1.0,0.221973,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-2031.00,Operations Research Analysts,ONET,0.027402,0.0,1.0,0.221922,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-1251.00,Computer Programmers,ONET,0.027137,0.0,1.0,0.22171,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-1211.00,Computer Systems Analysts,ONET,0.026989,0.0,1.0,0.221591,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-2051.02,Clinical Data Managers,ONET,0.026919,0.0,1.0,0.221535,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-1254.00,Web Developers,ONET,0.026784,0.0,1.0,0.221427,False,T2b,v1.0
+TI_PLO-15,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system.,15-1299.03,Document Management Specialists,ONET,0.026681,0.0,1.0,0.221345,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1253.00,Software Quality Assurance Analysts and Testers,ONET,0.039116,0.0,1.0,0.231293,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-2041.00,Statisticians,ONET,0.030137,0.0,1.0,0.22411,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-2021.00,Mathematicians,ONET,0.030137,0.0,1.0,0.22411,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-2041.01,Biostatisticians,ONET,0.030137,0.0,1.0,0.22411,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-2011.00,Actuaries,ONET,0.030137,0.0,1.0,0.22411,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1299.09,Data Scientists,ONET,0.029313,0.0,1.0,0.22345,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-2099.01,Bioinformatics Technicians,ONET,0.028692,0.0,1.0,0.222954,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1243.00,Database Architects,ONET,0.028658,0.0,1.0,0.222926,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1242.00,Database Administrators,ONET,0.028531,0.0,1.0,0.222825,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1299.01,Blockchain Engineers,ONET,0.028487,0.0,1.0,0.22279,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-2031.00,Operations Research Analysts,ONET,0.02842,0.0,1.0,0.222736,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1251.00,Computer Programmers,ONET,0.028145,0.0,1.0,0.222516,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1211.00,Computer Systems Analysts,ONET,0.027992,0.0,1.0,0.222394,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-2051.02,Clinical Data Managers,ONET,0.027919,0.0,1.0,0.222335,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1254.00,Web Developers,ONET,0.027779,0.0,1.0,0.222223,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1299.03,Document Management Specialists,ONET,0.027673,0.0,1.0,0.222138,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1211.01,Health Informatics Specialists,ONET,0.027473,0.0,1.0,0.221978,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1241.01,Telecommunications Engineering Specialists,ONET,0.02742,0.0,1.0,0.221936,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1243.01,Data Warehousing Specialists,ONET,0.027393,0.0,1.0,0.221914,False,T2b,v1.0
+TI_PLO-4,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem perangkat lunak.,15-1212.00,Information Security Analysts,ONET,0.02737,0.0,1.0,0.221896,False,T2b,v1.0
+TI_PLO-5,"Menguasai prinsip manajemen organisasi, arsitektur sistem, dan tata kelola TI.",11-3031.00,Financial Managers,ONET,0.026445,0.0,1.0,0.221156,True,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1212.00,Information Security Analysts,ONET,0.141941,0.0,1.0,0.313553,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",13-2099.01,Financial Risk Specialists,ONET,0.07558,0.0,1.0,0.260464,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1221.00,Computer and Information Research Scientists,ONET,0.061408,0.0,1.0,0.249126,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1299.02,Geographic Information Systems Technologists and Technicians,ONET,0.059967,0.0,1.0,0.247974,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-2041.00,Statisticians,ONET,0.053523,0.0,1.0,0.242818,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-2021.00,Mathematicians,ONET,0.053523,0.0,1.0,0.242818,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-2011.00,Actuaries,ONET,0.053523,0.0,1.0,0.242818,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-2041.01,Biostatisticians,ONET,0.053523,0.0,1.0,0.242818,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1299.09,Data Scientists,ONET,0.052059,0.0,1.0,0.241647,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-2099.01,Bioinformatics Technicians,ONET,0.050957,0.0,1.0,0.240766,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1243.00,Database Architects,ONET,0.050896,0.0,1.0,0.240717,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1242.00,Database Administrators,ONET,0.050672,0.0,1.0,0.240538,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1299.01,Blockchain Engineers,ONET,0.050593,0.0,1.0,0.240474,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-2031.00,Operations Research Analysts,ONET,0.050474,0.0,1.0,0.240379,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1251.00,Computer Programmers,ONET,0.049985,0.0,1.0,0.239988,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1211.00,Computer Systems Analysts,ONET,0.049714,0.0,1.0,0.239771,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-2051.02,Clinical Data Managers,ONET,0.049584,0.0,1.0,0.239667,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1299.03,Document Management Specialists,ONET,0.049469,0.0,1.0,0.239575,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1254.00,Web Developers,ONET,0.049336,0.0,1.0,0.239469,False,T2b,v1.0
+TI_PLO-6,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem TI.",15-1211.01,Health Informatics Specialists,ONET,0.048792,0.0,1.0,0.239034,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1241.00,Computer Network Architects,ONET,0.057612,0.0,1.0,0.24609,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1231.00,Computer Network Support Specialists,ONET,0.056235,0.0,1.0,0.244988,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1244.00,Network and Computer Systems Administrators,ONET,0.053745,0.0,1.0,0.242996,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1299.09,Data Scientists,ONET,0.050687,0.0,1.0,0.24055,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-2051.02,Clinical Data Managers,ONET,0.048276,0.0,1.0,0.238621,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1243.01,Data Warehousing Specialists,ONET,0.047366,0.0,1.0,0.237893,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-2041.00,Statisticians,ONET,0.043196,0.0,1.0,0.234557,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-2021.00,Mathematicians,ONET,0.043196,0.0,1.0,0.234557,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-2041.01,Biostatisticians,ONET,0.043196,0.0,1.0,0.234557,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-2011.00,Actuaries,ONET,0.043196,0.0,1.0,0.234557,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-2099.01,Bioinformatics Technicians,ONET,0.041125,0.0,1.0,0.2329,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1243.00,Database Architects,ONET,0.041076,0.0,1.0,0.232861,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1242.00,Database Administrators,ONET,0.040895,0.0,1.0,0.232716,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1299.01,Blockchain Engineers,ONET,0.040831,0.0,1.0,0.232665,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-2031.00,Operations Research Analysts,ONET,0.040735,0.0,1.0,0.232588,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1251.00,Computer Programmers,ONET,0.040341,0.0,1.0,0.232273,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1211.00,Computer Systems Analysts,ONET,0.040122,0.0,1.0,0.232098,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1254.00,Web Developers,ONET,0.039817,0.0,1.0,0.231854,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1299.03,Document Management Specialists,ONET,0.039664,0.0,1.0,0.231731,False,T2b,v1.0
+TI_PLO-7,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data.",15-1211.01,Health Informatics Specialists,ONET,0.039378,0.0,1.0,0.231502,False,T2b,v1.0
+TI_PLO-8,Menguasai konsep kecerdasan buatan dan sistem pembelajaran mesin untuk solusi TI.,15-2051.01,Business Intelligence Analysts,ONET,0.058829,0.0,1.0,0.247063,False,T2b,v1.0
+TI_PLO-8,Menguasai konsep kecerdasan buatan dan sistem pembelajaran mesin untuk solusi TI.,43-9071.00,"Office Machine Operators, Except Computer",ONET,0.050521,0.0,1.0,0.240417,False,T2b,v1.0
+TI_PLO-8,Menguasai konsep kecerdasan buatan dan sistem pembelajaran mesin untuk solusi TI.,43-9051.00,Mail Clerks and Mail Machine Operators,ONET,0.047008,0.0,1.0,0.237606,False,T2b,v1.0
+TI_PLO-8,Menguasai konsep kecerdasan buatan dan sistem pembelajaran mesin untuk solusi TI.,43-5053.00,"Postal Service Mail Sorters, Processors, and Processing Machine Operators",ONET,0.041554,0.0,1.0,0.233243,False,T2b,v1.0

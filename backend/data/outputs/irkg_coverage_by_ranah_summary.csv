@@ -1,0 +1,5 @@
+ranah,n_items,has_mapping_esco,has_mapping_onet,has_mapping_skkni,mean_sfinal_esco,mean_sfinal_onet,mean_sfinal_skkni
+Keterampilan Khusus,9,0.5556,0.4444,1.0,0.128,0.2257,0.5446
+Keterampilan Umum,6,0.1667,0.0,1.0,0.0302,0.0,0.5458
+Pengetahuan,9,1.0,0.6667,1.0,0.2651,0.3442,0.5553
+Sikap,6,0.1667,0.1667,0.6667,0.0356,0.085,0.3567

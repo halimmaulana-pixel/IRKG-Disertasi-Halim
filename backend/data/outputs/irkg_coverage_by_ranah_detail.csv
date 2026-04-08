@@ -1,0 +1,31 @@
+source_id,prodi,ranah,deskripsi_cpl,n_ok_esco,mean_sfinal_esco,has_mapping_esco,n_ok_onet,mean_sfinal_onet,has_mapping_onet,n_ok_skkni,mean_sfinal_skkni,has_mapping_skkni
+SI_PLO-1,SI,Sikap,Bertanggung jawab atas pekerjaan di bidang Sistem Informasi secara mandiri dan a...,13,0.2137,True,3,0.51,True,15,0.5266,True
+SI_PLO-2,SI,Sikap,Mampu bekerjasama dan memiliki kepekaan terhadap masalah sosial dan lingkungan....,0,0.0,False,0,0.0,False,10,0.5276,True
+SI_PLO-3,SI,Sikap,"Menginternalisasi semangat kemandirian, kejuangan, dan kewirausahaan....",0,0.0,False,0,0.0,False,0,0.0,False
+SI_PLO-4,SI,Pengetahuan,Menguasai konsep teoritis di bidang sistem informasi dan pengembangan perangkat ...,20,0.2899,True,20,0.5207,True,20,0.5498,True
+SI_PLO-5,SI,Pengetahuan,"Memahami konsep manajemen organisasi dan bisnis, metode analisis, perancangan pr...",19,0.2784,True,20,0.5152,True,20,0.5384,True
+SI_PLO-6,SI,Pengetahuan,Memahami metode evaluasi unjuk kerja organisasi/bisnis dan mampu mengambil keput...,9,0.2297,True,0,0.0,False,8,0.5236,True
+SI_PLO-7,SI,Keterampilan Umum,"Mampu menerapkan pemikiran logis, kritis, sistematis, dan inovatif dalam pengemb...",0,0.0,False,0,0.0,False,11,0.5206,True
+SI_PLO-8,SI,Keterampilan Umum,Mampu melakukan evaluasi diri terhadap kelompok kerja yang berada di bawah tangg...,0,0.0,False,0,0.0,False,13,0.5305,True
+SI_PLO-9,SI,Keterampilan Umum,"Mampu mempresentasikan informasi dan mengemukakan ide dengan jelas, baik secara ...",0,0.0,False,0,0.0,False,8,0.5274,True
+SI_PLO-10,SI,Keterampilan Khusus,Memiliki etika dan tanggung jawab profesi di bidang IS/IT....,0,0.0,False,0,0.0,False,6,0.5318,True
+SI_PLO-11,SI,Keterampilan Khusus,Mampu mengambil keputusan secara profesional berdasarkan keilmuan sistem informa...,13,0.2383,True,11,0.5082,True,4,0.5209,True
+SI_PLO-12,SI,Keterampilan Khusus,Mampu mengikuti perkembangan teknologi IS/IT terkini....,0,0.0,False,0,0.0,False,3,0.5273,True
+SI_PLO-13,SI,Keterampilan Khusus,Mampu menerapkan keterampilan kewirausahaan di bidang teknologi informasi dan ko...,6,0.0749,True,6,0.5065,True,20,0.5627,True
+SI_PLO-14,SI,Keterampilan Khusus,Mampu memahami kebutuhan pembelajaran sepanjang hayat dan isu-isu kontemporer ya...,0,0.0,False,0,0.0,False,2,0.5614,True
+SI_PLO-15,SI,Keterampilan Khusus,"Mampu mengembangkan keilmuan, wawasan, dan pengalaman melalui kegiatan magang, r...",0,0.0,False,0,0.0,False,10,0.5231,True
+TI_PLO-1,TI,Sikap,Bertanggung jawab atas pekerjaan di bidang Teknologi Informasi secara mandiri da...,0,0.0,False,0,0.0,False,20,0.5512,True
+TI_PLO-2,TI,Sikap,Mampu bekerjasama dan memiliki kepekaan terhadap masalah sosial dan lingkungan....,0,0.0,False,0,0.0,False,2,0.5351,True
+TI_PLO-3,TI,Sikap,"Menginternalisasi semangat kemandirian, kejuangan, dan kewirausahaan....",0,0.0,False,0,0.0,False,0,0.0,False
+TI_PLO-4,TI,Pengetahuan,Menguasai konsep teoritis Teknologi Informasi dan metode perancangan sistem pera...,15,0.2862,True,20,0.5073,True,20,0.563,True
+TI_PLO-5,TI,Pengetahuan,"Menguasai prinsip manajemen organisasi, arsitektur sistem, dan tata kelola TI....",8,0.2423,True,0,0.0,False,8,0.5616,True
+TI_PLO-6,TI,Pengetahuan,"Menguasai metode keamanan informasi, manajemen risiko, dan pengendalian sistem T...",15,0.2235,True,20,0.5219,True,20,0.5475,True
+TI_PLO-7,TI,Pengetahuan,"Menguasai teori jaringan, sistem operasi, dan teknologi komunikasi data....",12,0.2497,True,20,0.5151,True,19,0.5692,True
+TI_PLO-8,TI,Pengetahuan,Menguasai konsep kecerdasan buatan dan sistem pembelajaran mesin untuk solusi TI...,11,0.3681,True,4,0.5176,True,20,0.5925,True
+TI_PLO-9,TI,Pengetahuan,Menguasai konsep integrasi sistem dan arsitektur enterprise....,8,0.2184,True,0,0.0,False,19,0.5519,True
+TI_PLO-10,TI,Keterampilan Umum,"Mampu menerapkan nilai etika, moral, dan humaniora dalam praktik profesional bid...",0,0.0,False,0,0.0,False,2,0.5607,True
+TI_PLO-11,TI,Keterampilan Umum,Mampu mengambil keputusan berbasis data dan analisis ilmiah....,4,0.1813,True,0,0.0,False,3,0.5419,True
+TI_PLO-12,TI,Keterampilan Umum,Mampu memimpin tim dan melakukan evaluasi kinerja serta supervisi proyek TI....,0,0.0,False,0,0.0,False,2,0.5937,True
+TI_PLO-13,TI,Keterampilan Khusus,Mampu merancang program dan aplikasi portable di berbagai platform....,9,0.1892,True,0,0.0,False,3,0.5498,True
+TI_PLO-14,TI,Keterampilan Khusus,Mampu merancang dan menerapkan prosedur keamanan sistem TI secara komprehensif....,7,0.3708,True,1,0.5087,True,10,0.5549,True
+TI_PLO-15,TI,Keterampilan Khusus,Mampu mengembangkan basis data dan solusi terintegrasi dalam enterprise system....,14,0.2784,True,15,0.5079,True,2,0.5691,True

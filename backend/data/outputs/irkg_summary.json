@@ -1,0 +1,24 @@
+{
+  "version": "v1.1-rerun",
+  "stage00_config": "v2.1-aptikom2022",
+  "tasks_run": [
+    "T1a",
+    "T1b",
+    "T2a",
+    "T2b",
+    "T3a",
+    "T3b",
+    "T4",
+    "T5"
+  ],
+  "configs_run": [
+    "v0.9",
+    "v1.0",
+    "v1.1",
+    "v1.2",
+    "v1.3",
+    "v1.4"
+  ],
+  "elapsed_seconds": 103.3,
+  "n_accepted_total": 191688
+}
