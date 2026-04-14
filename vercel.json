@@ -1,29 +1,9 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "frontend",
-      "use": "@vercel/static",
-      "config": { "ignore": "backend/**" }
-    },
-    {
-      "src": "api/app.py",
-      "use": "@vercel/python",
-      "config": { "runtime": "python3.12" }
-    }
-  ],
+  "framework": "vite",
+  "buildCommand": "cd frontend && npm install && npm run build",
+  "outputDirectory": "frontend/dist",
+  "installCommand": "npm install",
   "routes": [
-    {
-      "src": "/api/(.*)",
-      "dest": "/api/app.py"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/frontend/dist/index.html"
-    }
-  ],
-  "env": {
-    "ALLOWED_ORIGINS": "https://irkg-disertasi-halim.vercel.app"
-  },
-  "framework": "vite"
+    { "src": "/api/(.*)", "dest": "/api/app.py" }
+  ]
 }
