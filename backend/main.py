@@ -1,10 +1,20 @@
-# backend/main.py - Simple Vercel entry
+# backend/main.py
 import os
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 
-# Try importing, if fails use minimal app
+app = FastAPI(title="IR-KG Web API")
+
+_origins = os.getenv(
+    "ALLOWED_ORIGINS", "https://irkg-disertasi-halim.vercel.app,http://localhost:5173"
+)
+allowed = [o.strip() for o in _origins.split(",") if o.strip()]
+
+app.add_middleware(
+    CORSMiddleware, allow_origins=allowed, allow_methods=["*"], allow_headers=["*"]
+)
+
 try:
-    from fastapi import FastAPI
-    from fastapi.middleware.cors import CORSMiddleware
     from routers import (
         graph,
         pipeline,
@@ -20,18 +30,6 @@ try:
 
     Base.metadata.create_all(bind=engine)
 
-    app = FastAPI(title="IR-KG Web API", version="3.0")
-
-    _origins = os.getenv(
-        "ALLOWED_ORIGINS",
-        "https://irkg-disertasi-halim.vercel.app,http://localhost:5173",
-    )
-    allowed = [o.strip() for o in _origins.split(",") if o.strip()]
-
-    app.add_middleware(
-        CORSMiddleware, allow_origins=allowed, allow_methods=["*"], allow_headers=["*"]
-    )
-
     app.include_router(graph.router, prefix="/api/graph", tags=["KG"])
     app.include_router(pipeline.router, prefix="/api/pipeline", tags=["Pipeline"])
     app.include_router(cri.router, prefix="/api/cri", tags=["CRI"])
@@ -40,12 +38,8 @@ try:
     app.include_router(upload.router, prefix="/api/upload", tags=["Upload"])
     app.include_router(domain.router, prefix="/api/domain", tags=["Domain"])
     app.include_router(cpl_mapping.router, prefix="/api/cpl-mapping", tags=["CPL"])
-
 except Exception as e:
-    from fastapi import FastAPI
-
-    app = FastAPI()
-    print(f"Import error: {e}")
+    print(f"Routers error: {e}")
 
 
 @app.get("/")
