@@ -3,7 +3,8 @@
   "builds": [
     {
       "src": "frontend",
-      "use": "@vercel/static"
+      "use": "@vercel/static",
+      "config": { "ignore": "backend/**" }
     },
     {
       "src": "api/app.py",
@@ -18,11 +19,11 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/frontend/index.html"
+      "dest": "/frontend/dist/index.html"
     }
   ],
   "env": {
     "ALLOWED_ORIGINS": "https://irkg-disertasi-halim.vercel.app"
   },
-  "framework": null
+  "framework": "vite"
 }
